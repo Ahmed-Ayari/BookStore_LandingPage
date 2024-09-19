@@ -20,7 +20,7 @@ This project is a landing page for an online book store. It is designed to provi
 ![Screenshot 2](https://github.com/Sphynx6/BookStore_LandingPage/blob/main/Book_Store/screenshot2.png)
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/Sphynx6/BookStore_LandingPage.git`
+1. Clone the repository: `git clone https://github.com/Ahmed-Ayari/BookStore_LandingPage.git`
 2. Open the project directory.
 3. Open the `index.html` file in a web browser.
 
